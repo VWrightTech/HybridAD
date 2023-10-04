@@ -12,18 +12,14 @@ Build a consistent Hybrid solution with Azure
 - <b>AZ Connect</b>
 - <b>DHCP</b> 
 - <b>DNS</b>
-- <b></b>
+- <b>Vmware Esxi</b>
 - <b>AD DS</b>
 
-<h2>Networking Resources</h2>
+<h2>Active Directory</h2>
 
 <p align="center">
 Computers: <br/>
 <img src="https://i.postimg.cc/GtLkzxqn/ad.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Users:  <br/>
-<img src="https://i.postimg.cc/TYcm7J7n/ss.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DNS: <br/>
@@ -33,7 +29,7 @@ Shared folder: <br/>
 <img src="https://i.postimg.cc/V6cjvfKc/44.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-dhcp:  <br/>
+DHCP:  <br/>
 <img src="https://i.postimg.cc/sg4VJ7Hs/dhcp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
