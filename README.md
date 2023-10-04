@@ -7,7 +7,7 @@ Build a consistent Hybrid solution with Azure
 
 <h2>Environments Used</h2>
   - <b>Azure</b> 
-
+  - <b>Window Server 2022</b> 
 <h2>Features</h2>
 - <b>AZ Connect</b>
 - <b>DHCP</b> 
