@@ -26,7 +26,7 @@ DNS: <br/>
 <img src="https://i.postimg.cc/yYgqdcCv/dns.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 Shared folder: <br/>
-<img src="https://i.postimg.cc/V6cjvfKc/44.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/gtm5pGY/Screenshot-2023-09-14-025804.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DHCP:  <br/>
